@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bridgwater-Deploy/static/css/main.76d41f78.chunk.css",
+    "main.js": "/Bridgwater-Deploy/static/js/main.0070e230.chunk.js",
+    "main.js.map": "/Bridgwater-Deploy/static/js/main.0070e230.chunk.js.map",
+    "runtime-main.js": "/Bridgwater-Deploy/static/js/runtime-main.44761b16.js",
+    "runtime-main.js.map": "/Bridgwater-Deploy/static/js/runtime-main.44761b16.js.map",
+    "static/js/2.0f7b95b0.chunk.js": "/Bridgwater-Deploy/static/js/2.0f7b95b0.chunk.js",
+    "static/js/2.0f7b95b0.chunk.js.map": "/Bridgwater-Deploy/static/js/2.0f7b95b0.chunk.js.map",
+    "static/js/3.1bb6893a.chunk.js": "/Bridgwater-Deploy/static/js/3.1bb6893a.chunk.js",
+    "static/js/3.1bb6893a.chunk.js.map": "/Bridgwater-Deploy/static/js/3.1bb6893a.chunk.js.map",
+    "index.html": "/Bridgwater-Deploy/index.html",
+    "static/css/main.76d41f78.chunk.css.map": "/Bridgwater-Deploy/static/css/main.76d41f78.chunk.css.map",
+    "static/js/2.0f7b95b0.chunk.js.LICENSE.txt": "/Bridgwater-Deploy/static/js/2.0f7b95b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44761b16.js",
+    "static/js/2.0f7b95b0.chunk.js",
+    "static/css/main.76d41f78.chunk.css",
+    "static/js/main.0070e230.chunk.js"
+  ]
+}

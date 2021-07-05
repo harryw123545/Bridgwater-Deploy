@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Bridgwater-Deploy/static/css/main.76d41f78.chunk.css",
-    "main.js": "/Bridgwater-Deploy/static/js/main.814b7ef8.chunk.js",
-    "main.js.map": "/Bridgwater-Deploy/static/js/main.814b7ef8.chunk.js.map",
+    "main.js": "/Bridgwater-Deploy/static/js/main.f7c977c4.chunk.js",
+    "main.js.map": "/Bridgwater-Deploy/static/js/main.f7c977c4.chunk.js.map",
     "runtime-main.js": "/Bridgwater-Deploy/static/js/runtime-main.44761b16.js",
     "runtime-main.js.map": "/Bridgwater-Deploy/static/js/runtime-main.44761b16.js.map",
     "static/js/2.0f7b95b0.chunk.js": "/Bridgwater-Deploy/static/js/2.0f7b95b0.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.44761b16.js",
     "static/js/2.0f7b95b0.chunk.js",
     "static/css/main.76d41f78.chunk.css",
-    "static/js/main.814b7ef8.chunk.js"
+    "static/js/main.f7c977c4.chunk.js"
   ]
 }

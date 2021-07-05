@@ -33,7 +33,7 @@ function Map(props){
           // console.log({selectedArtist});
         }}
         icon= {{
-          url: "/icons/pin.png",
+          url: "./icons/pin.png",
           scaledSize: new window.google.maps.Size(50, 50)
         }}
 

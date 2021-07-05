@@ -24,7 +24,7 @@
                 },
                 "image": {
                     "type": "image",
-                    "link": "/images/5.JPG"
+                    "link": "./images/5.JPG"
                 }
             }
         },
@@ -51,7 +51,7 @@
                 },
                 "image": {
                     "type": "image",
-                    "link": "/images/6.jpg"
+                    "link": "./images/6.jpg"
                 }
             }
         },
@@ -78,7 +78,7 @@
                     },
                     "image": {
                         "type": "image",
-                        "link": "/images/7.jpg"
+                        "link": "./images/7.jpg"
                     }
                 }
         },
@@ -105,7 +105,7 @@
                     },
                     "image": {
                         "type": "image",
-                        "link": "/images/8.jpg"
+                        "link": "./images/8.jpg"
                     }
                 }
         },
@@ -132,7 +132,7 @@
                     },
                     "image": {
                         "type": "image",
-                        "link": "/images/9.jpg"
+                        "link": "./images/9.jpg"
                     }
                 }
         },
@@ -159,7 +159,7 @@
                     },
                     "image": {
                         "type": "image",
-                        "link": "/images/10.jpg"
+                        "link": "./images/10.jpg"
                     }
                 }
         },
@@ -186,7 +186,7 @@
                     },
                     "image": {
                         "type": "image",
-                        "link": "/images/11.jpg"
+                        "link": "./images/11.jpg"
                     }
                 }
         },
@@ -213,7 +213,7 @@
                     },
                     "image": {
                         "type": "image",
-                        "link": "/images/12.jpg"
+                        "link": "./images/12.jpg"
                     }
                 }
         },
@@ -241,7 +241,7 @@
                     },
                     "image": {
                         "type": "image",
-                        "link": "/images/13.png"
+                        "link": "./images/13.png"
                     }
                 }
         },
@@ -268,7 +268,7 @@
                     },
                     "image": {
                         "type": "image",
-                        "link": "/images/14.jpg"
+                        "link": "./images/14.jpg"
                     }
                 }
         },
@@ -295,7 +295,7 @@
                       },
                     "image": {
                         "type": "image",
-                        "link": "/images/15.jpg"
+                        "link": "./images/15.jpg"
                     }
                 }
         },

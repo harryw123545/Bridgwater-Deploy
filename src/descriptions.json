@@ -305,6 +305,28 @@
             "type": "Feature",
             "properties": {
 
+                    "ARTIST_ID": 1660,
+                    "name": "King Street",
+                    "description": "Walk via this street to access Blake Gardens.",
+                    "click": " ",
+                    "link": {
+                        "type": "Point",
+                        "source": [" "]
+                    },
+                    "geometry": {
+                        "type": "Point", "coordinates": [51.128254, -3.001680]
+                    },
+                    "mapslocation": {
+                        "type": "Point",
+                        "source": ["https://www.google.com/maps/place/51%C2%B007'41.7%22N+3%C2%B000'06.1%22W/@51.128254,-3.0022272,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d51.1282535!4d-3.0016801"]
+                    }
+                }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+
                     "ARTIST_ID": 1460,
                     "name": "Train Station",
                     "click": " ",
@@ -341,28 +363,7 @@
                         "source": ["https://www.google.com/maps/place/Bus+Station+(Bay+1)/@51.129675,-3.0014787,17z/data=!4m5!3m4!1s0x4872088f458c88a1:0xa1c77b8c6537ea1f!8m2!3d51.1298328!4d-2.9994761"]
                     }
                 }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-
-                    "ARTIST_ID": 1660,
-                    "name": "King Street",
-                    "description": "Walk via this street to access Blake Gardens.",
-                    "click": " ",
-                    "link": {
-                        "type": "Point",
-                        "source": [" "]
-                    },
-                    "geometry": {
-                        "type": "Point", "coordinates": [51.128254, -3.001680]
-                    },
-                    "mapslocation": {
-                        "type": "Point",
-                        "source": ["https://www.google.com/maps/place/51%C2%B007'41.7%22N+3%C2%B000'06.1%22W/@51.128254,-3.0022272,19z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d51.1282535!4d-3.0016801"]
-                    }
-                }
         }
-
+        
     ]
 }

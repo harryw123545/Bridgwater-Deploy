@@ -94,7 +94,7 @@ function Sidebar(props) {
       >
 
           <a href="http://www.bridgwaterquaysidefestival.uk/programme-of-events/" target="_black">
-            <img src = "/images/BridgwaterLogo.png" alt="logo"/>
+            <img src = "./images/BridgwaterLogo.png" alt="logo"/>
           </a>
           <div className="SidebarIntro">
           <button className="close-button"

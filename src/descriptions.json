@@ -7,7 +7,7 @@
         "properties":{
 
                 "ARTIST_ID": 160,
-                "name": "Picnic in the Park",
+                "name": "Picnic in the Park - Blake Gardens",
                 "location": "Blake Gardens",
                 "description": "Performances, Street Theatre, Music, Stalls and performances with Pirates of the Carabina, <a href='https://bridgwaterartscentre.co.uk/event/bluebird-theatre-company-musicians-of-bremen/' target= 'black'>Bluebirds Theatre</a>, The Musicians of Bremen, Lets Dance and <a href='https://bridgwaterartscentre.co.uk/event/beeology-4-00pm/' target= 'black'>Beeology</a>. Performances are FREE and some are ticketed via <a href='https://bridgwaterartscentre.co.uk/events/' target= 'black'>this link.</a> Performances are also live streamed! There is something for everyone to enjoy.",
                 "click": "VISIT THEIR WEBSITE",
@@ -63,7 +63,7 @@
                     "ARTIST_ID": 360,
                     "name": "Stunning Street Theatre and Music",
                     "location": "Blake Statue",
-                    "description": "Visit Bridgwater and see stunning street theatre, street bands, music in the town centre and the Wild Beach children’s eco arts trail.  There is something for everyone to enjoy!",
+                    "description": "Visit Bridgwater and see stunning street theatre, street bands, music and the Wild Beach children’s eco arts trail. There is something for everyone to enjoy!",
                     "click": "VISIT THEIR WEBSITE",
                     "link": {
                     "type": "Point",
@@ -90,7 +90,7 @@
                     "ARTIST_ID": 460,
                     "name": "Wild Beach Art Trail",
                     "location": "Fore street",
-                    "description": "Explore and discover the children’s artwork created with artist Sarah Butterworth. . Children created marine wildlife sculptures using recycled materials. Look out for the giant eel, fabulous fish and seabirds created with recycled materials and highlighting plastics in our rivers, waterways and sea’s. There will be information on the Somerset Wildlife Trust stall in Blake Gardens to help you learn about the project and protect your local environment.",
+                    "description": "Explore and discover the children’s eco arts trail, see stunning street theatre and street bands.",
                     "click": "VISIT THEIR WEBSITE",
                     "link": {
                         "type": "Point",
@@ -115,7 +115,7 @@
             "properties": {
 
                     "ARTIST_ID": 560,
-                    "name": "Somerset Film at the Engine Room",
+                    "name": "Games for Good Exhibition",
                     "location": "Somerset Film at the Engine Room",
                     "description": "Games for Good Exhibition - Come and celebrate with us the good that gaming can do. We’ll be exhibiting a range of virtuous video games that either explore subjects as diverse as building sustainable civilisations to tackling negative perceptions of Muslims or that encourage creativity and dexterity.  Take part in our Tetris challenge and play featured games in the exhibition on PC, PS4 and MAC. Opens 11am - 5pm Entry to the exhibition is free and will be limited to eight people at a time. Keyboards /controllers will be cleaned between use.",
                     "click": "VISIT THEIR WEBSITE",
@@ -142,9 +142,9 @@
             "properties": {
 
                     "ARTIST_ID": 760,
-                    "name": "Somerset Film at the Engine Room",
+                    "name": "Bridgwater Through the Ages",
                     "location": "Somerset Film at the Engine Room",
-                    "description": "Bridgwater Through the Ages - sound installation -  Pause. Take a rest in our deckchairs. Close your eyes and be transported through sound to experience our wonderful town during a range of imagined times. The deckchairs will be cleaned between use and are located outside the Engine Room.",
+                    "description": "Bridgwater Through the Ages - sound installation - Pause. Take a rest in our deckchairs. Close your eyes and be transported through sound to experience our wonderful town during a range of imagined times. The deckchairs will be cleaned between use and are located outside the Engine Room.",
                     "click": "VISIT THEIR WEBSITE",
                     "link": {
                         "type": "Point",
@@ -171,8 +171,7 @@
                     "ARTIST_ID": 860,
                     "name": "Bridgwater Library",
                     "location": "Bridgwater Library",
-                    "description": "Listen to the storytellers traditional tales and spontaneous stories from storyteller Sarah Mooney. Sarah will be out and about in the park and near the library during the day.",
-                    "description2": "You can also visit Bridgwater library and sign up to the 2021 Summer Reading Challenge 9:30am to 2pm. Register yourself as a library member (if you are not already) and then speak to a member of staff who will sign you up to the challenge there and then. Adult/Parent/Guardian permission must be given at the time of signing up",
+                    "description": "Listen to the storytellers traditional tales and spontaneous stories from storyteller Sarah Mooney and sign up to the summer reading challenge.",
                     "click": "VISIT THEIR WEBSITE",
                     "link": {
                         "type": "Point",
@@ -199,7 +198,7 @@
                     "ARTIST_ID": 960,
                     "name": "Pentanque Tournament",
                     "location": "Victoria Park",
-                    "description": "The Pentanque - July 9th, 12 noon to 3pm Victoria Park. An international Pemtamque tournament featuring eight teams representing England, France, Germany, Czech, Malta, Italy, Portugal and USA.  The café will be open! Audience welcome. Did you know Pentanque (French Boules) was invented in Bridgwater's Twin town  La Ciotat.",
+                    "description": "The Pentanque - July 9th, 12 noon to 3pm Victoria Park. An international Pentanque tournament featuring eight teams representing England, France, Germany, Czech, Malta, Italy, Portugal and USA. The café will be open! Audience welcome.",
                     "click": "VISIT THEIR WEBSITE",
                     "link": {
                         "type": "Point",
@@ -254,7 +253,7 @@
                     "ARTIST_ID": 1160,
                     "name": "Eco Arts - Wild Beach Art Trail",
                     "location": "East Quay",
-                    "description": "Explore and discover the children’s eco arts trail. Children created marine wildlife sculptures using recycled materials. Look out for the giant eel, fabulous fish and seabirds around the town and follow the eco arts trail map. http://www.bridgwaterquaysidefestival.uk/programme-of-events/",
+                    "description": "Explore and discover the children’s eco arts trail. Children created marine wildlife sculptures using recycled materials. Look out for the giant eel, fabulous fish and seabirds around the town and follow the eco arts trail map.",
                     "click": "VISIT THEIR WEBSITE",
                     "link": {
                         "type": "Point",

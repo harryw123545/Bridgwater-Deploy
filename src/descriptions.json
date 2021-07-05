@@ -8,7 +8,7 @@
 
                 "ARTIST_ID": 160,
                 "name": "Picnic in the Park - Blake Gardens",
-                "location": "Blake Gardens",
+                "location": "Blake Gardens, July 10th 11am - 5pm",
                 "description": "Performances, Street Theatre, Music, Stalls and performances with Pirates of the Carabina, <a href='https://bridgwaterartscentre.co.uk/event/bluebird-theatre-company-musicians-of-bremen/' target= 'black'>Bluebirds Theatre</a>, The Musicians of Bremen, Lets Dance and <a href='https://bridgwaterartscentre.co.uk/event/beeology-4-00pm/' target= 'black'>Beeology</a>. Performances are FREE and some are ticketed via <a href='https://bridgwaterartscentre.co.uk/events/' target= 'black'>this link.</a> Performances are also live streamed! There is something for everyone to enjoy.",
                 "click": "VISIT THEIR WEBSITE",
                 "link": {
@@ -35,7 +35,7 @@
 
                 "ARTIST_ID": 260,
                 "name": "Eco Arts - Wild Beach Art Trail",
-                "location": "West Quay",
+                "location": "West Quay, July 10th 11am - 5pm",
                 "description": "Explore and discover the children’s eco arts trail. Children created marine wildlife sculptures using recycled materials. Look out for the giant eel, fabulous fish and seabirds around the town and follow the eco arts trail map.",
                 "click": "VISIT THEIR WEBSITE",
                 "link": {
@@ -62,8 +62,9 @@
 
                     "ARTIST_ID": 360,
                     "name": "Stunning Street Theatre and Music",
-                    "location": "Blake Statue",
+                    "location": "Blake Statue, July 10th 11am - 5pm",
                     "description": "Visit Bridgwater and see stunning street theatre, street bands, music and the Wild Beach children’s eco arts trail. There is something for everyone to enjoy!",
+                    "description2": "Upcoming events on August 14th 10am - 2pm, more to follow.",
                     "click": "VISIT THEIR WEBSITE",
                     "link": {
                     "type": "Point",
@@ -89,7 +90,7 @@
 
                     "ARTIST_ID": 460,
                     "name": "Wild Beach Art Trail",
-                    "location": "Fore street",
+                    "location": "Fore street, July 10th 11am - 5pm",
                     "description": "Explore and discover the children’s eco arts trail, see stunning street theatre and street bands.",
                     "click": "VISIT THEIR WEBSITE",
                     "link": {
@@ -116,7 +117,7 @@
 
                     "ARTIST_ID": 560,
                     "name": "Games for Good Exhibition",
-                    "location": "Somerset Film at the Engine Room",
+                    "location": "Somerset Film at the Engine Room, July 10th 11am - 5pm",
                     "description": "Games for Good Exhibition - Come and celebrate with us the good that gaming can do. We’ll be exhibiting a range of virtuous video games that either explore subjects as diverse as building sustainable civilisations to tackling negative perceptions of Muslims or that encourage creativity and dexterity.  Take part in our Tetris challenge and play featured games in the exhibition on PC, PS4 and MAC. Opens 11am - 5pm Entry to the exhibition is free and will be limited to eight people at a time. Keyboards /controllers will be cleaned between use.",
                     "click": "VISIT THEIR WEBSITE",
                     "link": {
@@ -143,7 +144,7 @@
 
                     "ARTIST_ID": 760,
                     "name": "Bridgwater Through the Ages",
-                    "location": "Somerset Film at the Engine Room",
+                    "location": "Somerset Film at the Engine Room, July 10th 11am - 5pm",
                     "description": "Bridgwater Through the Ages - sound installation - Pause. Take a rest in our deckchairs. Close your eyes and be transported through sound to experience our wonderful town during a range of imagined times. The deckchairs will be cleaned between use and are located outside the Engine Room.",
                     "click": "VISIT THEIR WEBSITE",
                     "link": {
@@ -170,7 +171,7 @@
 
                     "ARTIST_ID": 860,
                     "name": "Bridgwater Library",
-                    "location": "Bridgwater Library",
+                    "location": "Bridgwater Library, July 10th 11am - 5pm",
                     "description": "Listen to the storytellers traditional tales and spontaneous stories from storyteller Sarah Mooney and sign up to the summer reading challenge.",
                     "click": "VISIT THEIR WEBSITE",
                     "link": {
@@ -224,7 +225,7 @@
 
                     "ARTIST_ID": 1060,
                     "name": "Bridgwater Arts Centre Tours",
-                    "location": "Bridgwater Arts Centre",
+                    "location": "Bridgwater Arts Centre, July 10th 11am - 5pm",
                     "description": "While you enjoy the day's street activities, why not take a break to explore England's oldest arts centre in eighteenth century Castle Street. The doors of Bridgwater Arts Centre, which were first opened in 1946, will be open all day and a short entertaining guided tour is on offer at hourly intervals. The tour will take you from the front door in Castle Street, through the art gallery, down into the vaulted basement (which was once part of the original town castle) and across the stage of the theatre and back out into Queen Street. Art work and a video installation will be on display. ",
                     "description2": "Book your tour through the <a href='https://bridgwaterartscentre.co.uk/event/arts-centre-walk-through/'>Bridgwater Arts Centre</a> between 10:30 - 4:30 (By phone or in person).",
                     "click": "VISIT THEIR WEBSITE",
@@ -252,8 +253,8 @@
 
                     "ARTIST_ID": 1160,
                     "name": "Eco Arts - Wild Beach Art Trail",
-                    "location": "East Quay",
-                    "description": "Explore and discover the children’s eco arts trail. Children created marine wildlife sculptures using recycled materials. Look out for the giant eel, fabulous fish and seabirds around the town and follow the eco arts trail map.",
+                    "location": "East Quay, July 10th 11am - 5pm",
+                    "description": "Explore and discover the children’s eco arts trail. Children created marine wildlife sculptures using recycled materials. Look out for the giant eel, fabulous fish and seabirds around the town and follow the eco arts trail map plus book signing at the Snug Book Shop and Cafe.",
                     "click": "VISIT THEIR WEBSITE",
                     "link": {
                         "type": "Point",
@@ -279,7 +280,7 @@
 
                     "ARTIST_ID": 1360,
                     "name": "Blake Museum",
-                    "location": "Blake Museum",
+                    "location": "Blake Museum, July 10th 11am - 5pm",
                     "description": "Bridgwater’s Blake Museum will be serving tea, coffee, etc. from the rear of the museum (access from Blake Gardens). The museum will be closed to normal visiting but will instead be holding a one-off exhibition about Carol Lee Scott aka ‘Grotbags’ Many will remember from their childhood the character ‘Grotbags’, the green witch. On display will be Carol’s ‘Grotbags’ costume, along with other paraphernalia. This is a once only opportunity to view the costume on open display. On sale will be a number of items once belonging to Carol. Entry is free. Access is from Blake Street only. 11.00am – 4.00pm.",
                     "click": "VISIT THEIR WEBSITE",
                     "link": {

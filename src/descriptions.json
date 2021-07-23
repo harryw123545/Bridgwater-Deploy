@@ -9,7 +9,8 @@
                 "ARTIST_ID": 160,
                 "name": "Picnic in the Park - Blake Gardens",
                 "location": "Blake Gardens, July 10th 11am - 5pm",
-                "description": "Performances, Street Theatre, Music, Stalls and performances with Pirates of the Carabina, <a href='https://bridgwaterartscentre.co.uk/event/bluebird-theatre-company-musicians-of-bremen/' target= 'black'>Bluebirds Theatre</a>, The Musicians of Bremen, Lets Dance and <a href='https://bridgwaterartscentre.co.uk/event/beeology-4-00pm/' target= 'black'>Beeology</a>. Performances are FREE and some are ticketed via <a href='https://bridgwaterartscentre.co.uk/events/' target= 'black'>this link.</a> Performances are also live streamed! There is something for everyone to enjoy.",
+                "description": "See Performances, Street Theatre, Music, Stalls and performances with Pirates of the Carabina, Blue Birds Theatre Company, The Musicians of Bremen, Lets Dance Sedgemoor and Beeology. View the Bridgwater Quayside Festival 2021 Livestream <a href='https://www.youtube.com/watch?v=hC8bDEMLtNE&list=PLwhvNUcyCKB9D3VB4D6Nif7KoXTlgvbFL' target= 'black'>HERE<a>",
+                "description2": "Stay tuned on our Facebook and Twitter @BQuaysidefest",
                 "click": "VISIT THEIR WEBSITE",
                 "link": {
                     "type": "Point",
@@ -63,8 +64,8 @@
                     "ARTIST_ID": 360,
                     "name": "Stunning Street Theatre and Music",
                     "location": "Blake Statue, July 10th 11am - 5pm",
-                    "description": "Visit Bridgwater and see stunning street theatre, street bands, music and the Wild Beach children’s eco arts trail. There is something for everyone to enjoy!",
-                    "description2": "Upcoming events on August 14th 10am - 2pm, more to follow.",
+                    "description": "Visit Bridgwater and see stunning street theatre, street bands, music and the Wild Beach children's eco-arts trail. View the Bridgwater Quayside Festival short film <a href='https://www.youtube.com/watch?v=iOgI13M3sX0&list=PLwhvNUcyCKB8xc-0Z5NZFjJJ4XDXjA9WM' target= 'black'>HERE</a>",
+                    "description2": "Stay tuned on our Facebook and Twitter @BQuaysidefest",
                     "click": "VISIT THEIR WEBSITE",
                     "link": {
                     "type": "Point",
